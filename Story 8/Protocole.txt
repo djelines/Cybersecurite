@@ -1,0 +1,14 @@
+US 8 : Analyse croisée RAM / disque
+EN TANT QUE analyste SOC,
+JE VEUX corréler les données mémoire et disque,
+AFIN DE reconstruire un scénario d’attaque cohérent.
+Critères d’acceptation :
+• Correspondance entre processus mémoire et fichiers disque
+• Détection d’éventuelle persistance
+Partie 2
+
+pour avoir la mémoire avant on a pris ftk imager avec capture memory 
+nommé memory_before.mem
+on a notre disque 
+
+on a activé le malware
